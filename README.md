@@ -1,6 +1,6 @@
 # test_layout
 
-A new Flutter project.
+A flutter frammework based beginner project which shows a basic layout
 
 ## Getting Started
 
